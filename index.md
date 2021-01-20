@@ -4,13 +4,6 @@ You can use the [editor on GitHub](https://github.com/zhukai1217/th1.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-啪，很快啊。年轻人要讲武德
-
-来测试一下，看看这个东西怎么用
-
-探头~~~~
-
-偷袭、偷袭，骗！骗！闪电五连鞭~~~~
 ```markdown
 Syntax highlighted code block
 
