@@ -1,2 +1,2 @@
 # th1.github.io
-emm
+想写博客
